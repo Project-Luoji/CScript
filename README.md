@@ -21,7 +21,7 @@ Cscript aims to solve most of these problems.
 ```
 include io;
 
-Function<int> main(char[][] args){
+function<int> main(char[][] args){
   std::prints("Hello world");
   return 0;
 }
@@ -39,29 +39,29 @@ class Thing{
   public:
   Thing(std::str name, std::int age, std::bool isSigma){} //AS LONG AS THE VAR NAME MATCHES CONSTRUCTOR WILL AUTO FIND.
 
-  virtual Function<void> doSomething(Thing target) throws Exception;
+  virtual function<void> doSomething(Thing target) throws Exception;
 
-  Function<std::str> getName() noexcept{
+  function<std::str> getName() noexcept{
     return this->name;
     }
-  Function<std::int> getAge() noexcept{
+  function<std::int> getAge() noexcept{
     return this->age;
     }
-  Function<std::bool> Sigma() noexcept{
+  function<std::bool> Sigma() noexcept{
     return this->isSigma;
     }
   }
 
 class Person : Thing{
   public:
-  real Function<void> doSomething(Thing target) throws Exception{
+  real function<void> doSomething(Thing target) throws Exception{
     if(this == target) return null, Exception("Same person lil bro");
     ... // Too lazy and idk what to do lo
     }
     return null;//, null (Not needed because end of function), AND SO IS THE RETURN BECAUSE IT'S A VOID FUNCTION
   }
 
-Function<int> main(char[][] args){
+function<int> main(char[][] args){
   Person ts = new {"Dyno", 16, true};
   std::printf<std::str, std::int, std::bool>("I am {}, {} years old. Sigma: {} ", ts.getName(), ts.getAge(), ts.Sigma());
   return 0; 
@@ -71,7 +71,7 @@ Function<int> main(char[][] args){
 ```
 include io;
 
-Function<int> main(char[][] args){
+function<int> main(char[][] args){
   std::int r = 4;
   const std::int x; // Can be assigned ONCE
   x = 10; // VALID CODE
