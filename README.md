@@ -83,4 +83,19 @@ function<int> main(char[][] args){
   Pointer<const std::int> alpha = &x; // Simple basically int* const
 }
 ```
+### Better type system
+```
+// Core types
+int8, int16, int32, int64        // int system...
+uint8, uint16, uint32, uint64   // unsigned int
+sint8, sint16, sint32, sint64   // signed int
+fl32, fl64                       // floats, double
+bool                             // bool
+
+// Official typedefs
+typedef uint8  char;   // C BRO
+typedef uint8  byte;   // Allias
+typedef fl32   fl;     // Lazy
+typedef fl64   double  // Double
+```
 
