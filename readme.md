@@ -1,7 +1,21 @@
 # CScript
 
-## !THIS PROJECT IS IN ALPHA VERSION. SO SOME PARTS OF THE LANGUAGE IS RUSHED.!
-## !I WILL TRY REWRITING THIS GIVEN THAT I DON'T TOUCH THE MAJOR FRAMEWORK.!
+### !THIS PROJECT IS IN ALPHA VERSION. SO SOME PARTS OF THE LANGUAGE IS RUSHED.!
+### !I WILL TRY REWRITING THIS GIVEN THAT I DON'T TOUCH THE MAJOR FRAMEWORK.!
+
+### I will soon rewrite readme.mds in different languages (as far as I am proficient).
+
+## RoadMap for the future:
+
+1. Set a real file format. ```cssx``` or ```cscript```
+2. Expand the ASM operators
+3. Perhaps stronger and better stack
+4. Virtual machine
+5. Decide, if it should be more Java or C as in ```std``` lib.
+6. Complete implementation of Exceptions
+7. More libraries: ```File. Random, Algorithms, Math (Caculus), Multithreading``` (IN ORDER)
+8. Undecided.
+9. More easter egg lol
 
 “the whole C++ exception handling thing is fundamentally broken. Itd’s _especially_ broken for kernels.”
 —Linus Torvalds
