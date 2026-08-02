@@ -1,0 +1,8 @@
+[
+{
+  "directory": "B:/C++/Dynoscript/build-mingw",
+  "command": "B:\\Application\\Msys2\\ucrt64\\bin\\g++.exe  @CMakeFiles/Cscript.dir/includes_CXX.rsp -std=c++23 -o CMakeFiles\\Cscript.dir\\test.cpp.obj -c B:\\C++\\Dynoscript\\test.cpp",
+  "file": "B:/C++/Dynoscript/test.cpp",
+  "output": "CMakeFiles/Cscript.dir/test.cpp.obj"
+}
+]

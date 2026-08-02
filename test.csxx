@@ -1,0 +1,42 @@
+include std;
+
+class Human {
+    std::str name;
+    std::int32 age;
+    std::int64 balance;
+    
+    Function<Human> __create__(std::str name, std::int32 age, std::int64 balance) {
+        Human h;
+        h.name = name;
+        h.age = age;
+        h.balance = balance;
+        return h;
+    }
+}
+
+Function<std::int64> factorial(std::int64 n) {
+    return if<std::int64>(n <= 1, 1, n * factorial(n-1));
+}
+
+
+Function<std::int32> main() {
+    std::int32 a = 5;
+    std::int32 b = 10;
+    std::int32 sum = a + b;
+    std::int64 veryMassiveInt = 67e+2;
+    std::float32 veryMassiveFloat = 67.67;
+    sum++;
+
+    <void>if(sum > 10, std::println("Sum is greater than 10"), std::println("Sum is less than or equal to 10"));
+    std::println(sum);
+    sum++;
+    std::println(sum);
+
+    std::println(factorial(20));
+
+    forrange(1, 100, ()-> {
+        
+    });
+    return 0;
+}
+

@@ -1,0 +1,61 @@
+﻿English:
+  GenZ:
+    INVALID_ARGUMENT_ERROR: "stop vibe coding and read yo shit. y u gotta make my code crash. whats wrong with yo bumass"
+    NULLPTR_ERROR: "Wsg twin. We lwk js got a nullptr err bruh. read yo shit gng. lwk fix yo bum codes"
+    COMPILE_ERROR: "Stop vibecodemaxxing ts ain't no joke. I'ma throw more errors at yo bumass codes if u don't get yo shit tight. like u feel me twin?"
+    RUNTIME_ERROR: "Yo twin, we got a runtime error. Fix yo bumass code or imma throw more errors at yo ass. read yo shit gng."
+    BAD_ALLOC: "get yo broke ass code together twin. we got a bad alloc error. read yo shit gng and fix yo bumass code."
+    UNKNOWN_ERROR: "What in the Triple T did u do bruh..... how tf yo shit crash??"
+    EXCEPTION: "Yo twin, we got an exception. read yo shit gng and fix yo bumass code. like u feel me twin?" 
+  Standard:
+    NULLPTR_ERROR: "Null pointer error. Please check your code for null references."
+    INVALID_ARGUMENT_ERROR: "Invalid argument error. Please ensure that the arguments passed to the function are valid."
+    COMPILE_ERROR: "Compilation error. Please review your code for syntax errors and fix them."
+    RUNTIME_ERROR: "Runtime error. An unexpected error occurred during execution. Please check your code."
+    BAD_ALLOC: "Bad allocation error. Memory allocation failed. Please check your code for memory management issues."
+    UNKNOWN_ERROR: "An unknown error occurred. Please review your code and try again."
+    EXCEPTION: "An exception was thrown. Please handle exceptions properly in your code."
+
+Chinese:
+  GenZ:
+    NULLPTR_ERROR: "我要验牌，牌有问题， 给我搽皮鞋"
+
+    INVALID_ARGUMENT_ERROR: "就算蔡徐坤再给你两年半，你也写不出个能跑的代码"
+
+    COMPILE_ERROR: "轻松绷住，你已急哭. 赛博丐帮，原神启动!"
+
+    RUNTIME_ERROR: "不是你CPU的问题，只是你CPU跑太快了， 代码没跟上"
+
+    BAD_ALLOC: "内存分配失败。你家庭条件到底行不行啊？内存都分不起？内存买不起是不是不够努力？"
+
+    UNKNOWN_ERROR: "你这是把我当日本入整？"
+
+    EXCEPTION: "含机量爆表，异常抛出。你这代码是想让我给你整成什么样？"
+  Standard:
+    NULLPTR_ERROR: "空指针错误。请检查代码中是否存在空引用。"
+
+    INVALID_ARGUMENT_ERROR: "无效参数错误。请确保传递给函数的参数是有效的。"
+
+    COMPILE_ERROR: "编译错误。请检查代码中的语法错误并修复它们。"
+
+    RUNTIME_ERROR: "运行时错误。在执行过程中发生了意外错误。请检查代码。"
+
+    BAD_ALLOC: "内存分配失败。内存分配失败，请检查代码中的内存管理问题。"
+    UNKNOWN_ERROR: "发生未知错误。请检查代码并重试。"
+    EXCEPTION: "抛出了异常。请在代码中正确处理异常。"
+  Communist:
+    NULLPTR_ERROR: "下定决心，不怕牺牲，排除万难，去争取胜利！不管风吹浪打，胜似闲庭信步！"
+    INVALID_ARGUMENT_ERROR: "只有无产阶级是真正革命的阶级， 只有坚持的人才能成功！"
+    COMPILE_ERROR: "与天奋斗其乐无穷！与地奋斗其乐无穷！与人奋斗其乐无穷！"
+    RUNTIME_ERROR: "哲学家们只是用不同的方式解释世界，而问题在于改变世界。"
+    BAD_ALLOC: "人的本质并不是单个人所固有的抽象物。在其现实性上，它是一切社会关系的总和。"
+    UNKNOWN_ERROR: "批判的武器当然不能代替武器的批判，物质力量只能用物质力量来摧毁；但是理论一经群众掌握，也会变成物质力量。"
+    EXCEPTION: "手段无所不备，信息无所不至，战场无所不在。"
+  Novel:
+    NULLPTR_ERROR: "我思故我在。"
+    INVALID_ARGUMENT_ERROR: "它的存在是如此的不可思议，以至于它的存在本身就是一个谜。"
+    COMPILE_ERROR: "鬼无法被杀死、能对付鬼的只有鬼、洞察鬼的规律。"
+    RUNTIME_ERROR: "早岁已知入世艰，仍许飞鸿荡云间。\n一路寒风身如絮，命海沉浮客独还。\n千磨万击心铸铁，万里征途足踏磐。\n今朝剑指九重天，斩尽诸仙不回头。"
+    BAD_ALLOC: "善良的人流干了血化为甘霖，慈悲的人割下了头赐予安定……但这个世界的恶意，永远也喂不够。"
+    UNKNOWN_ERROR: "没关系的，都一样。"
+    EXCEPTION: "我们既然意识到自己的渺小，那就更应该变得强大。\n我们本来就是渺小的，只是从无知变得有知，你感到痛苦，是因为你在成长。"
