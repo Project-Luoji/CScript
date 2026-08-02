@@ -1,11 +1,11 @@
 # CScript
 
+## !THIS PROJECT IS IN ALPHA VERSION. SO SOME PARTS OF THE LANGUAGE IS RUSHED.!
+## !I WILL TRY REWRITING THIS GIVEN THAT I DON'T TOUCH THE MAJOR FRAMEWORK.!
+
 “the whole C++ exception handling thing is fundamentally broken. Itd’s _especially_ broken for kernels.”
 —Linus Torvalds
 
-## Plan for development
-
-Cscript will be language that inherits the unique syntax structure of each language: C++'s syntax structure; Java's ```throws``` and a mix of C++ & Java's ```abstract & virutal```; Rust's unique ownership system; Go's ```result, err :=```. Above all, the reading simplicity of Python, yet the performance close to C. 
 
 
 ## How does this work?
